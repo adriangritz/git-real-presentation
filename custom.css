@@ -1,0 +1,16 @@
+.hero-wrap {
+    text-align: center;
+    background: url(dark-sharp-edges.png) left top repeat;
+    padding: 280px 0;
+}
+.hero-wrap h1 {
+    color: #FFF;
+    font-size: 4rem;
+}
+.hero-wrap img.octocat {
+    width: 30%;
+    height: 30%;
+}
+.m-t-25 {
+    margin-top: 25px !important;
+}
