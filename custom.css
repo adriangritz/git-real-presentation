@@ -4,18 +4,15 @@ body {
 .hero-wrap {
     text-align: center;
     background: url(light-sharp-edges.png) left top repeat;
-    padding: 280px 0;
+    padding: 180px 0px 180px 0px;
 }
 .hero-wrap h1 {
     color: #FFF;
     font-size: 4rem;
 }
 .hero-wrap img.octocat {
-    width: 30%;
-    height: 30%;
-}
-.m-t-25 {
-    margin-top: 25px !important;
+    width: 300px;
+    height: 300px;
 }
 .git-tutorials-wrap {
     padding: 100px 0px;
@@ -37,4 +34,18 @@ body {
 }
 a {
     color: #00529b;
+}
+.btn-primary {
+    background: #ef4b24;
+    border: 1px solid #ef4b24;
+}
+a.btn-primary:hover {
+    background: #6c9bc3;
+    border: 1px solid #6c9bc3;    
+}
+.tagline {
+    color: #CCC;
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin: 10px 0px 25px 0px;
 }
