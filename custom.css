@@ -1,3 +1,6 @@
+body {
+    background: #e3e5de;    
+}
 .hero-wrap {
     text-align: center;
     background: url(light-sharp-edges.png) left top repeat;
@@ -13,4 +16,25 @@
 }
 .m-t-25 {
     margin-top: 25px !important;
+}
+.git-tutorials-wrap {
+    padding: 100px 0px;
+}
+.item {
+    overflow: hidden;
+}
+.item h3 {
+    margin-bottom: 0px;
+    margin-top: 3px;
+    font-size: 120%;    
+}
+.icon {
+    margin-right: 15px;
+    color: #ef4b24;
+}
+.git-cheat-sheet {
+    width: 100%;
+}
+a {
+    color: #00529b;
 }
