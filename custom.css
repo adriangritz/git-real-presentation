@@ -17,6 +17,10 @@ body {
 .git-tutorials-wrap {
     padding: 100px 0px;
 }
+.git-other-resources-wrap {
+    padding: 100px 0px;
+    background: #FFF;
+}
 .item {
     overflow: hidden;
 }
@@ -31,6 +35,10 @@ body {
 }
 .git-cheat-sheet {
     width: 100%;
+}
+.steroid-cat {
+    width: 100%;
+    margin-top: -65px;
 }
 a {
     color: #00529b;
@@ -48,4 +56,9 @@ a.btn-primary:hover {
     font-size: 1.2rem;
     font-weight: 300;
     margin: 10px 0px 25px 0px;
+}
+.section-heading {
+    margin: 0px 0px 70px 0px;
+    text-transform: uppercase;
+    font-size: 2rem;
 }
