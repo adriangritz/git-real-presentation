@@ -21,6 +21,15 @@ body {
     padding: 100px 0px;
     background: #FFF;
 }
+.git-top-tier-resources {
+    padding: 175px 0px;
+    background: #FFF;
+}
+.git-top-tier-resources h3 {
+    margin-top: 10px;
+    font-size: 1.3rem;    
+    margin-bottom: 25px;
+}
 .item {
     overflow: hidden;
 }
@@ -61,4 +70,22 @@ a.btn-primary:hover {
     margin: 0px 0px 70px 0px;
     text-transform: uppercase;
     font-size: 2rem;
+}
+.c-dark-orange {
+    color: #ff4a00;  
+}
+.c-light-orange {
+    color: #e9b284;  
+}
+.c-medium-blue {
+    color: #6c9bc3;  
+}
+.c-light-blue {
+    color: #9ad2e1;  
+}
+.c-taupe {
+    color: #c1c3b2;
+}
+.c-medium-grey {
+    color: #8f949a;
 }
