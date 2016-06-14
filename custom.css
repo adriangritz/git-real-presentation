@@ -51,6 +51,11 @@ body {
 }
 a {
     color: #00529b;
+    cursor: pointer;
+}
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
 }
 .btn-primary {
     background: #ef4b24;
@@ -88,4 +93,32 @@ a.btn-primary:hover {
 }
 .c-medium-grey {
     color: #8f949a;
+}
+.git-gui-box {
+    padding: 50px;
+    margin-bottom: 50px;
+    color: #FFF;
+}
+.git-gui-box:hover {
+    opacity: .8;
+}
+.bitbucket {
+    background: #59afe1;
+    background: #205081;
+}
+.sourcetree {
+    background: #59afe1;
+}
+.github {
+    background: #f9f9f9;
+    color: #000;
+}
+.github-desktop {
+    background: #000;
+}
+.gitkraken {
+    background: #149287;
+}
+.gitlab {
+    background: #6B4FB9;
 }
