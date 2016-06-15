@@ -58,12 +58,12 @@ a:hover {
     cursor: pointer;
 }
 .btn-primary {
-    background: #ef4b24;
-    border: 1px solid #ef4b24;
+    background: #6c9bc3;
+    border: 1px solid #6c9bc3;
 }
 a.btn-primary:hover {
-    background: #6c9bc3;
-    border: 1px solid #6c9bc3;    
+    background: #9ad2e1;
+    border: 1px solid #9ad2e1;    
 }
 .tagline {
     color: #CCC;
